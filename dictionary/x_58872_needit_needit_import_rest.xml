@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c5a5075ac32332104b23784ed401314d" extends="sys_import_set_row" label="NeedIt Import REST" max_length="40" name="x_58872_needit_needit_import_rest" type="collection"/>
+</database>
